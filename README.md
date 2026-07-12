@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/23f10b00-473b-40d3-9c5d-909c0b76b96c
+View your app in AI Studio: https://transitops-1.ai.studio
 
 ## Run Locally
 
