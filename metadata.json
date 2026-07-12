@@ -1,0 +1,6 @@
+{
+  "name": "TransitOps",
+  "description": "A comprehensive, high-performance transit fleet management and operations dashboard with intelligent Role-Based Access Control (RBAC).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
